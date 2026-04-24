@@ -5,4 +5,4 @@ resources:
 images:
 - name: ghcr.io/alexmchughdev/ot-edge-asset-tag-generator
   newName: ghcr.io/alexmchughdev/ot-edge-asset-tag-generator
-  newTag: sha-d4d1090
+  newTag: sha-a62908d
